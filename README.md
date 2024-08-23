@@ -1,1 +1,1 @@
-This a random cat meme generator powered by thecatapi its also open source
+This a random cat meme generator it's powered by thecatapi its also open source
